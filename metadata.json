@@ -1,0 +1,5 @@
+{
+  "name": "Arena JJ São Gabriel - Domine a Arte Suave",
+  "description": "Transforme sua vida através do Jiu-Jitsu Brasileiro. Oferecemos um ambiente seguro e profissional para todas as idades e níveis de habilidade.",
+  "requestFramePermissions": ["geolocation"]
+}

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary: #0d20f2;
+  --font-display: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
